@@ -1,3 +1,4 @@
+[gemini-code-1792500657109.html](https://github.com/user-attachments/files/33724508/gemini-code-1792500657109.html)
 <!DOCTYPE html>
 <html lang="en" class="dark">
 <head>
@@ -189,10 +190,6 @@
             justify-content: center;
             padding: 20px;
             z-index: 25;
-        }
-
-        .quiz-overlay.hidden {
-            display: none !important;
         }
 
         .quiz-card {
